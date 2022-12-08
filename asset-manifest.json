@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/salt-wizard.github.io/static/css/main.073c9b0a.css",
-    "main.js": "/salt-wizard.github.io/static/js/main.09f1accd.js",
-    "static/js/787.5222060e.chunk.js": "/salt-wizard.github.io/static/js/787.5222060e.chunk.js",
-    "static/media/logo.svg": "/salt-wizard.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/salt-wizard.github.io/index.html",
-    "main.073c9b0a.css.map": "/salt-wizard.github.io/static/css/main.073c9b0a.css.map",
-    "main.09f1accd.js.map": "/salt-wizard.github.io/static/js/main.09f1accd.js.map",
-    "787.5222060e.chunk.js.map": "/salt-wizard.github.io/static/js/787.5222060e.chunk.js.map"
+    "main.css": "/salt-page/static/css/main.073c9b0a.css",
+    "main.js": "/salt-page/static/js/main.9d8e273d.js",
+    "static/js/787.5222060e.chunk.js": "/salt-page/static/js/787.5222060e.chunk.js",
+    "static/media/logo.svg": "/salt-page/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/salt-page/index.html",
+    "main.073c9b0a.css.map": "/salt-page/static/css/main.073c9b0a.css.map",
+    "main.9d8e273d.js.map": "/salt-page/static/js/main.9d8e273d.js.map",
+    "787.5222060e.chunk.js.map": "/salt-page/static/js/787.5222060e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.09f1accd.js"
+    "static/js/main.9d8e273d.js"
   ]
 }
